@@ -8,3 +8,8 @@ To create new branch use:
 ---
 To switch between branches use: 
  ->git checkout branch_name
+
+ #Git Basics
+ To show created,updated or delted files use this command:
+->git status
+----
